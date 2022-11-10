@@ -1,0 +1,5 @@
+components:
+- name: hello-world
+  command:
+     executable: echo
+     arguments: hello world
